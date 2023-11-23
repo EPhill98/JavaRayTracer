@@ -1,12 +1,4 @@
-package com.example.cw;/*
-CS-255 Getting started code for the assignment
-I do not give you permission to post this code online
-Do not post your solution online
-Do not copy code
-Do not use JavaFX functions or other libraries to do the main parts of the assignment (i.e. ray tracing steps 1-7)
-All of those functions must be written by yourself
-You may use libraries to achieve a better GUI
-*/
+package com.example.cw;
 
 import javafx.application.Application;
 import javafx.beans.value.ChangeListener;
